@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abhisek-bera
 - 👀 I’m interested in building awesome applications
 - 🌱 I’m currently learning IOT
-- 💞️ I’m looking to collaborate on Java, Spring, Hibernate, JavaScript
+- 💞️ I’m looking to collaborate on Java, Spring, Hibernate, JavaScript and many more..
 - 📫 Reach me @ abhisekbera01@yahoo.com
 
 <!---
